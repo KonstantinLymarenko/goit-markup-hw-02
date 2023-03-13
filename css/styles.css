@@ -46,26 +46,17 @@ body {
 .menu-link:focus {
   color: #404bbf;
 }
-.contact-email {
+.contacts {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contact-email:hover,
-.contact-email:focus {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
-.contact-phone-number {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.contact-phone-number:hover,
-.contact-phone-number:focus {
-  color: #404bbf;
-}
+
 /* HERO SECTiON */
 .hero {
   background-color: #2e2f42;
@@ -237,5 +228,6 @@ body {
 .product-descr {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
