@@ -93,7 +93,7 @@ body {
 }
 .order-btn:hover,
 .order-btn:focus {
-  background-color: var(--active-btn-color);
+  color: var(--active-btn-color);
   
 }
 .advantages-menu {
